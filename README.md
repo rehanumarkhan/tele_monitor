@@ -25,16 +25,9 @@ This Telegram bot is designed to monitor messages in specified Telegram groups o
 
 ### Setup
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/telegram-monitoring-bot.git
-    cd telegram-monitoring-bot
-    ```
+1. Copy the python script
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required dependencies
 
 3. Set up your Telegram API credentials:
    - Obtain your `api_id` and `api_hash` from [my.telegram.org](https://my.telegram.org).
@@ -44,10 +37,7 @@ This Telegram bot is designed to monitor messages in specified Telegram groups o
    - Obtain a bot token from the [BotFather](https://core.telegram.org/bots#botfather).
    - Replace the placeholders in the script with your bot token and the chat ID where notifications should be sent.
 
-5. Run the bot:
-    ```bash
-    python telegram_bot.py
-    ```
+5. Run the bot
 
 ## Usage
 
